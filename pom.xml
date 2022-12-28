@@ -33,8 +33,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>sonar-maven-plugin</artifactId>
-                                
+				<artifactId>spring-boot-maven-plugin</artifactId>
 	
 				<executions>
                        
